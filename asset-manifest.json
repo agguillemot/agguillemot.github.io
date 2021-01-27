@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/terminus-grille-prog/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/terminus-grille-prog/static/js/main.667a46c4.chunk.js",
+    "main.js.map": "/terminus-grille-prog/static/js/main.667a46c4.chunk.js.map",
+    "runtime-main.js": "/terminus-grille-prog/static/js/runtime-main.29a17afd.js",
+    "runtime-main.js.map": "/terminus-grille-prog/static/js/runtime-main.29a17afd.js.map",
+    "static/js/2.a7853bbd.chunk.js": "/terminus-grille-prog/static/js/2.a7853bbd.chunk.js",
+    "static/js/2.a7853bbd.chunk.js.map": "/terminus-grille-prog/static/js/2.a7853bbd.chunk.js.map",
+    "static/js/3.42e30c7a.chunk.js": "/terminus-grille-prog/static/js/3.42e30c7a.chunk.js",
+    "static/js/3.42e30c7a.chunk.js.map": "/terminus-grille-prog/static/js/3.42e30c7a.chunk.js.map",
+    "index.html": "/terminus-grille-prog/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/terminus-grille-prog/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a7853bbd.chunk.js.LICENSE.txt": "/terminus-grille-prog/static/js/2.a7853bbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29a17afd.js",
+    "static/js/2.a7853bbd.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.667a46c4.chunk.js"
+  ]
+}
