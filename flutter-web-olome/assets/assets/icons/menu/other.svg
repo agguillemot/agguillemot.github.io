@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1. Atoms / Icons / Burger</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.-Atoms-/-Icons-/-Burger" fill="#272932">
+            <path d="M21,17 C21.5522847,17 22,17.4477153 22,18 L22,19 C22,19.5522847 21.5522847,20 21,20 L3,20 C2.44771525,20 2,19.5522847 2,19 L2,18 C2,17.4477153 2.44771525,17 3,17 L21,17 Z M21,10 C21.5522847,10 22,10.4477153 22,11 L22,12 C22,12.5522847 21.5522847,13 21,13 L3,13 C2.44771525,13 2,12.5522847 2,12 L2,11 C2,10.4477153 2.44771525,10 3,10 L21,10 Z M21,4 C21.5522847,4 22,4.44771525 22,5 L22,6 C22,6.55228475 21.5522847,7 21,7 L3,7 C2.44771525,7 2,6.55228475 2,6 L2,5 C2,4.44771525 2.44771525,4 3,4 L21,4 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

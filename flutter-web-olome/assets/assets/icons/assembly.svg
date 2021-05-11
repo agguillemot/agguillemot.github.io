@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1. Atoms / Icons / Assembly</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.-Atoms-/-Icons-/-Assembly" fill="#272932">
+            <path d="M15,2 C15.5522847,2 16,2.44771525 16,3 L16,8 L21,8 C21.5522847,8 22,8.44771525 22,9 L22,21 C22,21.5128358 21.6139598,21.9355072 21.1166211,21.9932723 L21,22 L9,22 C8.44771525,22 8,21.5522847 8,21 L8,16 L3,16 C2.44771525,16 2,15.5522847 2,15 L2,3 C2,2.44771525 2.44771525,2 3,2 L15,2 Z M20,10 L16,10 L16,15 C16,15.5128358 15.6139598,15.9355072 15.1166211,15.9932723 L15,16 L10,16 L10,20 L20,20 L20,10 Z M14,4 L4,4 L4,14 L8,14 L8,9 C8,8.44771525 8.44771525,8 9,8 L14,8 L14,4 Z M14,10 L10,10 L10,14 L14,14 L14,10 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
